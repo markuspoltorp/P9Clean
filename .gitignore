@@ -13,3 +13,4 @@ MemoryCaptures/
 *.unitypackage
 .DS_Store
 Thumbs.db
+Assets/**/Textures/**/EXR/
